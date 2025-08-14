@@ -1,0 +1,14 @@
+I made this app using python where i created 5 functions as follows
+1st add function 
+  in this funntion user can add thier task by multiple times
+  to create this i used while loop to take input as many times as user want and also save each time
+2nd save function:
+  in this function i wrote code to save all tasks in local device
+3rd overwrite function:
+  it is similar to save funtion but in save func i can append data and in overwrite i just rewrite the data to mark as completed
+4th mark function :
+ It allows to mark the task as completed 
+5th load function :
+ it adds all data from the txt file to list where use can iterate or select any data to make it as marked or delete
+6th delete function :
+  It just deletes any task from the file
